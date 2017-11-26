@@ -1,0 +1,21 @@
+<script>
+// Docs at http://simpleweather.monkeecreate.com
+$(document).ready(function() {
+  $.simpleWeather({
+    zipcode: '55403',
+    woeid: '2357536',
+    location: '',
+    unit: 'f',
+    success: function(weather) {
+      html = '<span>Currently in '+weather.city+'</span>';
+    html += '<p class="degrees"><img src="https://cdn.shopify.com/s/files/1/0223/4187/t/3/assets/'+weather.code+'.png">';
+    html += +weather.temp+'&deg; </p>';
+
+      $("#weather").html(html);
+    },
+    error: function(error) {
+      $("#weather").html('<p>'+error+'</p>');
+    }
+  });
+});
+</script>

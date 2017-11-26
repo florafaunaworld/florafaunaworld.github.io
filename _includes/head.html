@@ -1,0 +1,23 @@
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+
+	<meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+	<title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+
+	<link rel="stylesheet" href="{{ "/assets/css/tradegothic.css" | relative_url }}">
+	<link rel="stylesheet" href="{{ "/assets/css/base.css" | relative_url }}">
+	<link rel="stylesheet" href="{{ "/assets/css/florafauna.css" | relative_url }}">
+  <!--[if IE]>
+	<link rel="stylesheet" href="{{ "/assets/css/florafaunaIE.css" | relative_url }}">
+  <![endif]-->
+  <!--[if lt IE 9]>
+  <script src="//ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+  <![endif]-->
+
+	<script type="text/javascript" src="{{ "/assets/js/jquery.js" | relative_url }}"></script>
+	<script type="text/javascript" src="{{ "/assets/js/jquery.simpleWeather.js" | relative_url }}"></script>
+	{% include weather.html %}
+
+</head>

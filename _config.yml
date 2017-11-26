@@ -24,3 +24,28 @@ defaults:
   values:
     layout: page
 permalink: pretty
+sass:
+  sass_dir: assets/css
+permalink: pretty
+social_facebook: https://www.facebook.com/FlorafaunaLtd/
+social_pinterest: http://pinterest.com/Florafaunaworld/
+social_instagram: https://www.instagram.com/florafauna_ltd/
+email: paul@florafaunaworld.com
+navigation:
+  - title: 'About'
+    url: '/'
+    text: 'FLORAFAUNA is a design and branding collective. In a world that’s increasingly cluttered with brands only those with a meaningful purpose, expressed with intent and originality, will make an impact.'
+  - title: 'Work'
+    url: '/work/heimies-made-branding/'
+    text: 'We live to transform and EVOLVE brands into resonant, lasting icons. Before any of the creative work begins, we start by clearly identifying the unique value proposition which then informs every aspect of the creative process.'
+    layout: work-item
+  - title: 'News'
+    url: '/news'
+    text: 'Our 2 cents. Studio updates, news headlines, and inspiration. We believe that Design is a verb, and not a noun! Design is a behavior, not a department! Design is the process of thinking made visual.'
+    layout: post
+  - title: 'Shop'
+    url: 'https://florafaunaltd.com/'
+    text: 'We design, print, and sometimes sell screen printed posters for bands who make music we love. They first function as ads for the events they were created for. When the curtain drops they become cultural artifacts and so much more than just ink on paper.'
+  - title: 'Contact'
+    url: '/contact'
+    text: "Let's start the conversation about how together we can EVOLVE your brand's story and create authentic experiences that make a powerful statement in world full of visual clutter and constant change."
