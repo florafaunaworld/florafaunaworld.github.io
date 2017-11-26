@@ -2,7 +2,7 @@
 title: Summit Brewing Company
 date: 2017-11-21 03:14:00 Z
 layout: work-item
-scope: "Identity / Product Design / Package Design / Collateral / Marketing"
+scope: Identity / Product Design / Package Design / Collateral / Marketing
 thumb: "/uploads/work8_large_1_large.png"
 slideshow:
 - image: "/uploads/SummitPosterFramed003_1024x1024.png"

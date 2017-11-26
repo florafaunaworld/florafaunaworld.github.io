@@ -2,7 +2,7 @@
 title: Environmental Graphics
 date: 2017-11-23 03:14:00 Z
 layout: work-item
-scope: "Branding / Retail Environmental Graphics / Signage"
+scope: Branding / Retail Environmental Graphics / Signage
 thumb: "/uploads/Pharm_Port_THUMB_large.png"
 slideshow:
 - image: "/uploads/Pharm_Port_007_1024x1024.png"

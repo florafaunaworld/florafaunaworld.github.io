@@ -2,7 +2,7 @@
 title: Earplug Packaging
 date: 2017-11-16 03:14:00 Z
 layout: work-item
-scope: "Identity / Product Design / Package Design / Collateral / Marketing"
+scope: Identity / Product Design / Package Design / Collateral / Marketing
 thumb: "/uploads/work12_large.png"
 slideshow:
 - image: "/uploads/Earplugs001b_1024x1024.gif"

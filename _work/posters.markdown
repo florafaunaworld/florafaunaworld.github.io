@@ -2,7 +2,7 @@
 title: Posters
 date: 2017-11-19 03:14:00 Z
 layout: work-item
-scope: "Product Design / Advertising / Collateral / Marketing"
+scope: Product Design / Advertising / Collateral / Marketing
 thumb: "/uploads/work9_large.jpg"
 slideshow:
 - image: "/uploads/BenaethTheTracksPoster_1_1024x1024.gif"

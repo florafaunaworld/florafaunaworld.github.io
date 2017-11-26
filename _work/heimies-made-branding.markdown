@@ -2,7 +2,8 @@
 title: Heimie's Made branding
 date: 2017-11-26 03:14:00 Z
 layout: work-item
-scope: "Identity / Branding / Catalog Design / Website Design & Development / Social Media Strategy"
+scope: Identity / Branding / Catalog Design / Website Design & Development / Social
+  Media Strategy
 thumb: "/uploads/HM_thumb.png"
 slideshow:
 - image: "/uploads/HM_LogoDevelopment.png"

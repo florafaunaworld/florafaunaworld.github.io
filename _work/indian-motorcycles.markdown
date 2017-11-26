@@ -2,7 +2,7 @@
 title: Indian Motorcycles
 date: 2017-11-17 03:14:00 Z
 layout: work-item
-scope: "Environment / Signage / Brand Heritage"
+scope: Environment / Signage / Brand Heritage
 thumb: "/uploads/Indian-active_02_large.png"
 slideshow:
 - image: "/uploads/NEW_Port_Indian_007_1024x1024.gif"
