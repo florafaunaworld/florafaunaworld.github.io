@@ -3,15 +3,14 @@ title: Heimie's Made branding
 date: 2017-11-26 03:14:00 Z
 layout: work-item
 slideshow:
-  - image: /uploads/HM_LogoDevelopment.png
-  - image: /uploads/HM_Logo_WebPortfolio.png  
-  - image: /uploads/HM_Ipad_Site.png
-  - image: /uploads/HM_Hangtags005.png
-  - image: /uploads/HM_Catalog001.png
-  - image: /uploads/HM_Catalog002.png
-  - image: /uploads/HM_Catalog003.png
-  - image: /uploads/HM_Bag.png
-
+- image: "/uploads/HM_LogoDevelopment.png"
+- image: "/uploads/HM_Logo_WebPortfolio.png"
+- image: "/uploads/HM_Ipad_Site.png"
+- image: "/uploads/HM_Hangtags005.png"
+- image: "/uploads/HM_Catalog001.png"
+- image: "/uploads/HM_Catalog002.png"
+- image: "/uploads/HM_Catalog003.png"
+- image: "/uploads/HM_Bag.png"
 ---
 
 We started by crafting an identity that captures the essence of a bygone era. We then infused that nostalgic magic into every facet of the Heimie's Made brand. Master artisan Anthony Andler designed a beautiful collection of bags – each are works of exceptional quality, crafted and assembled by hand with great love and care.
