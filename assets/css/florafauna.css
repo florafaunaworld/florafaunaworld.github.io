@@ -738,3 +738,22 @@ padding: 4px 10px 5px;
 }
 
 .ttu { text-transform: uppercase; }
+
+#workintro p {
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 32px;
+  margin-bottom: 19px;
+}
+
+#workintro blockquote {
+  padding: 0;
+  margin: 0;
+  border-left: none;
+}
+
+#workintro blockquote p {
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 30px;
+}

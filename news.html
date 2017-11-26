@@ -1,0 +1,50 @@
+---
+title: About
+date: 2017-11-25 21:46:00 Z
+layout: default
+---
+
+<section id="top">
+<div class="container row-fluid">
+	<section id="content" class="span4">
+ 			{% for item in site.posts %}
+
+						<!-- POST -->
+						<div class="post">
+							<div class="title">
+                <h2><a href="{{ item.url }}">{{ item.title | escape }}</a></h2>
+							</div>
+							<div class="date">
+                {{ item.date | date: "%m/%d/%Y" }}
+							</div>
+							<div class="content">
+                {{ item.content }}
+							</div>
+						</div>
+    {% endfor %}
+
+	</section>
+		<aside id="sidebar" class="span1">
+						<div>
+							<h3>LINKS</h3>
+							<ul class="unstyled">
+					 			{% for post in site.posts %}
+								<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                {% endfor %}
+							</ul>
+						</div>
+						<div>
+							<h3>ARCHIVE</h3>
+							<ul class="unstyled">
+                {% for post in site.posts %}
+                   {% assign currentDate = post.date | date: "%Y" %}
+                   {% if currentDate != lastDate %}
+                       <li><a>{{ currentDate }}</a></li>
+                       {% assign lastDate = currentDate %}
+                   {% endif %}
+               {% endfor %}
+							</ul>
+						</div>
+					</aside>
+				</div>
+</section>

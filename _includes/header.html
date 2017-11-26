@@ -13,7 +13,7 @@
 								<div class="nav-collapse collapse">
 									<ul class="nav ttu">
                     {% for link in site.navigation %}
-                    <li{% if link.active %} class="active"{% endif %}>
+                    <li {% if page.url == link.url or page.layout == link.layout %}class="active"{% endif %}>
                       <a href="{{ link.url }}" title="{{ link.title }}">{{ link.title }}</a>
 										</li>
                     {% endfor %}

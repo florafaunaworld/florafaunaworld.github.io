@@ -20,7 +20,7 @@
 			<!-- ITEM -->
 			<li class="span1 thumbnail">
         <a href="{{ site.navigation[1].url }}">
-        {% if template == 'product.work' %}
+        {% if page.layout == 'work-item' %}
           <img src="{{ "/assets/img/home-bottom-2-active.jpg" | relative_url }}" alt="" data-hover="{{ "/assets/img/home-bottom-2-active.jpg" | relative_url }}"/>
           {% else %}
           <img src="{{ "/assets/img/home-bottom-2.jpg" | relative_url }}" alt="" data-hover="{{ "/assets/img/home-bottom-2-active.jpg" | relative_url }}"/>
@@ -68,7 +68,7 @@
 						<!-- ITEM -->
 						<li class="span1 thumbnail">
               <a href="{{ site.navigation[4].url }}">
-              {% if site.navigation[4].url == page.url %}
+              {% if page.url == '/contact/' %}
                 <img src="{{ "/assets/img/home-bottom-5-active.jpg" | relative_url }}" alt="" data-hover="{{ "/assets/img/home-bottom-5-active.jpg" | relative_url }}"/>
               {% else %}
                 <img src="{{ "/assets/img/home-bottom-5.jpg" | relative_url }}" alt="" data-hover="{{ "/assets/img/home-bottom-5-active.jpg" | relative_url }}"/>
