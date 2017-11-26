@@ -9,7 +9,7 @@ layout: default
         <!-- SlidesJS Required: Start Slides -->
         <!-- The container is used to define the width of the slideshow -->
         <div id="slides">
-          {% for item in page.slideshow offset:1 %}
+          {% for item in page.slideshow %}
             <img src="{{ item.image }}"  width="726" height="576" alt="{{ item.alt | escape }}" />
             {% assign img_count = forloop.index %}
           {% endfor %}
@@ -26,7 +26,12 @@ layout: default
       </div>
       <div id="workintro" class="span2">
         {{ content }}
+        {% if page.scope %}
         <p class="info"><strong>SCOPE:</strong> {{page.scope}}</p>
+        {% endif %}
+        {% if page.quote %}
+        <p class="info">{{page.quote}}</p>
+        {% endif %}
       </div>
     </div>
   </div>
@@ -35,14 +40,14 @@ layout: default
 <!-- MIDDLE -->
 <section id="middle">
   <div id="bodymiddle" class="container">
-    {% for item in site.work %}
+    {% for item in site.work reversed %}
     {% cycle '<ul class="row thumbnails">','','','','' %}
       <!-- ITEM -->
-      <li class="span1 thumbnail{% if item.handle == curr_handle %} active{% endif %}">
+      <li class="span1 thumbnail{% if item.url == page.url %} active{% endif %}">
         <a href="{{ item.url }}">
           <img src="{{ item.thumb }}" alt="{{ item.slideshow[0].alt | escape }}" />
           <div class="caption">
-            <h3>{{ item.title }}</h3>
+            <h3 class="ttu">{{ item.title }}</h3>
           </div>
         </a>
       </li>
