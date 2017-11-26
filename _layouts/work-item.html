@@ -9,15 +9,15 @@ layout: default
         <!-- SlidesJS Required: Start Slides -->
         <!-- The container is used to define the width of the slideshow -->
         <div id="slides">
-          {% for image in page.images offset:1 %}
-            <img src="{{ image.src | page_img_url: '1024x1024' }}"  width="726" height="576" alt="{{ image.alt | escape }}" />
+          {% for item in page.slideshow offset:1 %}
+            <img src="{{ item.image }}"  width="726" height="576" alt="{{ item.alt | escape }}" />
             {% assign img_count = forloop.index %}
           {% endfor %}
           <a href="#" class="slidesjs-previous slidesjs-navigation">
-            <img src="{{ 'prev-arrow.png' | asset_url }}">
+            <img src="{{ "/assets/img/prev-arrow.png" | relative_url }}" alt="slide-prev"/>
           </a>
           <a href="#" class="slidesjs-next slidesjs-navigation">
-            <img src="{{ 'next-arrow.png' | asset_url }}">
+            <img src="{{ "/assets/img/next-arrow.png" | relative_url }}" alt="slide-next"/>
           </a>
         </div>
         <div id="slidesjs-log">
@@ -39,7 +39,7 @@ layout: default
       <!-- ITEM -->
       <li class="span1 thumbnail{% if item.handle == curr_handle %} active{% endif %}">
         <a href="{{ item.url }}">
-          <img src="{{ item.featured_image.src | item_img_url: 'large' }}" alt="{{ item.featured_image.alt | escape }}" />
+          <img src="{{ item.thumb }}" alt="{{ item.slideshow[0].alt | escape }}" />
           <div class="caption">
             <h3>{{ item.title }}</h3>
           </div>
