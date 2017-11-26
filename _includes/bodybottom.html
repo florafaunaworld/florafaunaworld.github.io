@@ -1,0 +1,86 @@
+<div id="bodybottom" class="container">
+	<div class="row">
+		<ul class="thumbnails">
+			<!-- ITEM -->
+			<li class="span1 thumbnail">
+    	  <a href="{{ site.navigation[0].url }}">
+        {% if page.url == '/' %}
+          <img src="{{ "/assets/img/home-bottom-1-active.jpg" | relative_url }}" alt="" data-hover="{{ "/assets/img/home-bottom-1-active.jpg" | relative_url }}"/>
+        {% else %}
+          <img src="{{ "/assets/img/home-bottom-1.jpg" | relative_url }}" alt="" data-hover="{{ "/assets/img/home-bottom-1-active.jpg" | relative_url }}"/>
+        {% endif %}
+				<div class="caption">
+          <h3 class="ttu">{{ site.navigation[0].title }}</h3>
+          <p>
+            {{ site.navigation[0].text }}
+          </p>
+				</div>
+				</a>
+			</li>
+			<!-- ITEM -->
+			<li class="span1 thumbnail">
+        <a href="{{ site.navigation[1].url }}">
+        {% if page.layout == 'work-item' %}
+          <img src="{{ "/assets/img/home-bottom-2-active.jpg" | relative_url }}" alt="" data-hover="{{ "/assets/img/home-bottom-2-active.jpg" | relative_url }}"/>
+          {% else %}
+          <img src="{{ "/assets/img/home-bottom-2.jpg" | relative_url }}" alt="" data-hover="{{ "/assets/img/home-bottom-2-active.jpg" | relative_url }}"/>
+        {% endif %}
+				<div class="caption">
+				  <h3 class="ttu">{{ site.navigation[1].title }}</h3>
+				  <p>
+            {{ site.navigation[1].text }}
+          </p>
+				</div>
+				</a>
+				</li>
+				<!-- ITEM -->
+				<li class="span1 thumbnail">
+          <a href="{{ site.navigation[2].url }}">
+          {% if site.navigation[2].url == page.url %}
+            <img src="{{ "/assets/img/home-bottom-3-active.jpg" | relative_url }}" alt="" data-hover="{{ "/assets/img/home-bottom-3-active.jpg" | relative_url }}"/>
+            {% else %}
+            <img src="{{ "/assets/img/home-bottom-3.jpg" | relative_url }}" alt="" data-hover="{{ "/assets/img/home-bottom-3-active.jpg" | relative_url }}"/>
+            {% endif %}
+					<div class="caption">
+					  <h3 class="ttu">{{ site.navigation[2].title }}</h3>
+					  <p>
+            {{ site.navigation[2].text }}
+	          </p>
+					</div>
+					</a>
+					</li>
+					<!-- ITEM -->
+					<li class="span1 thumbnail">
+          	<a href="{{ site.navigation[3].url }}">
+            {% if site.navigation[3].url == page.url %}
+              <img src="{{ "/assets/img/home-bottom-4-active.jpg" | relative_url }}" alt="" data-hover="{{ "/assets/img/home-bottom-4-active.jpg" | relative_url }}"/>
+            {% else %}
+              <img src="{{ "/assets/img/home-bottom-4.jpg" | relative_url }}" alt="" data-hover="{{ "/assets/img/home-bottom-4-active.jpg" | relative_url }}"/>
+            {% endif %}
+						<div class="caption">
+              <h3 class="ttu">{{ site.navigation[3].title }}</h3>
+              <p>
+    	        {{ site.navigation[3].text }}
+		          </p>
+						</div>
+						</a>
+						</li>
+						<!-- ITEM -->
+						<li class="span1 thumbnail">
+              <a href="{{ site.navigation[4].url }}">
+              {% if page.url == '/contact/' %}
+                <img src="{{ "/assets/img/home-bottom-5-active.jpg" | relative_url }}" alt="" data-hover="{{ "/assets/img/home-bottom-5-active.jpg" | relative_url }}"/>
+              {% else %}
+                <img src="{{ "/assets/img/home-bottom-5.jpg" | relative_url }}" alt="" data-hover="{{ "/assets/img/home-bottom-5-active.jpg" | relative_url }}"/>
+              {% endif %}
+							<div class="caption">
+                <h3 class="ttu">{{ site.navigation[4].title }}</h3>
+                <p>
+         			  {{ site.navigation[4].text }}
+				        </p>
+								</div>
+							</a>
+							</li>
+					</ul>
+				</div>
+		</div>

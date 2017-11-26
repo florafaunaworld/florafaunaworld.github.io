@@ -1,0 +1,111 @@
+---
+layout: default
+---
+
+<section id="top">
+  <div id="bodytop" class="container">
+    <div class="row-fluid">
+      <div id="workimage" class="span3">
+        <!-- SlidesJS Required: Start Slides -->
+        <!-- The container is used to define the width of the slideshow -->
+        <div id="slides">
+          {% for item in page.slideshow %}
+            <img src="{{ item.image }}"  width="726" height="576" alt="{{ item.alt | escape }}" />
+            {% assign img_count = forloop.index %}
+          {% endfor %}
+          <a href="#" class="slidesjs-previous slidesjs-navigation">
+            <img src="{{ "/assets/img/prev-arrow.png" | relative_url }}" alt="slide-prev"/>
+          </a>
+          <a href="#" class="slidesjs-next slidesjs-navigation">
+            <img src="{{ "/assets/img/next-arrow.png" | relative_url }}" alt="slide-next"/>
+          </a>
+        </div>
+        <div id="slidesjs-log">
+          <span class="slidesjs-slide-number">1</span> / {{ img_count }}
+        </div>
+      </div>
+      <div id="workintro" class="span2">
+        {{ content }}
+        {% if page.scope %}
+        <p class="info"><strong>SCOPE:</strong> {{page.scope}}</p>
+        {% endif %}
+        {% if page.quote %}
+        <p class="info">{{page.quote}}</p>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- MIDDLE -->
+<section id="middle">
+  <div id="bodymiddle" class="container">
+    {% for item in site.work reversed %}
+    {% cycle '<ul class="row thumbnails">','','','','' %}
+      <!-- ITEM -->
+      <li class="span1 thumbnail{% if item.url == page.url %} active{% endif %}">
+        <a href="{{ item.url }}">
+          <img src="{{ item.thumb }}" alt="{{ item.slideshow[0].alt | escape }}" />
+          <div class="caption">
+            <h3 class="ttu">{{ item.title }}</h3>
+          </div>
+        </a>
+      </li>
+    {% cycle '','','','','</ul><!-- /.row -->' %}
+    {% endfor %}
+  </div>
+</section>
+
+<!-- BOTTOM -->
+<section id="bottom">
+	{% include bodybottom.html %}
+</section>
+
+<script>
+// this function must be defined in the global scope
+window.fadeIn = function(obj) {
+    $(obj).fadeIn(1000);
+}
+</script>
+
+<script type="text/javascript" src="{{ "/assets/js/jquery.slides.min.js" | relative_url}}"></script>
+ <!-- SlidesJS Required: Initialize SlidesJS with a jQuery doc ready -->
+  <script>
+    $(function() {
+      $('#slides').slidesjs({
+        width: 662,
+        height: 669,
+        navigation: {
+      		active: false,
+	        // [boolean] Generates next and previous buttons.
+  	      // You can set to false and use your own buttons.
+    	    // User defined buttons must have the following:
+      	  // previous button: class="slidesjs-previous slidesjs-navigation"
+        	// next button: class="slidesjs-next slidesjs-navigation"
+		      effect: "slide"
+    	    // [string] Can be either "slide" or "fade".
+		    },
+        callback: {
+          loaded: function(number) {
+            // Use your browser console to view log
+            console.log('SlidesJS: Loaded with slide #' + number);
+
+            // Show start slide in log
+            $('#slidesjs-log .slidesjs-slide-number').text(number);
+          },
+          start: function(number) {
+            // Use your browser console to view log
+            console.log('SlidesJS: Start Animation on slide #' + number);
+          },
+          complete: function(number) {
+            // Use your browser console to view log
+            console.log('SlidesJS: Animation Complete. Current slide is #' + number);
+
+            // Change slide number on animation complete
+            $('#slidesjs-log .slidesjs-slide-number').text(number);
+          }
+        }
+      });
+    });
+  </script>
+  <!-- End SlidesJS Required -->

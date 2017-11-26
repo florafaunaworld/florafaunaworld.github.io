@@ -1,0 +1,28 @@
+<header>
+    <div id="navbar" class="navbar">
+				<div class="navbar-inner">
+			        <div class="container">
+							<div id="logo" class="span2 pull-left">
+								<div>
+                  <a href="/">
+                    <img src="{{ '/assets/img/logo-flaura-fauna.png' | relative_url }}" alt="Florafauna" />
+									</a>
+								</div>
+							</div><!-- #logo -->
+							<div id="menu" class="span2">
+								<div class="nav-collapse collapse">
+									<ul class="nav ttu">
+                    {% for link in site.navigation %}
+                    <li {% if page.url == link.url or page.layout == link.layout %}class="active"{% endif %}>
+                      <a href="{{ link.url }}" title="{{ link.title }}">{{ link.title }}</a>
+										</li>
+                    {% endfor %}
+									</ul>
+								</div><!-- /.nav-collapse -->
+							</div><!-- #menu -->
+
+
+					</div><!-- /.container -->
+			      </div><!-- /.navbar-inner -->
+			    </div><!-- /.navbar -->
+		</header>
