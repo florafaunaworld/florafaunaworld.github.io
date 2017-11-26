@@ -2,7 +2,7 @@
 title: Wired Magazine
 date: 2017-11-14 03:14:00 Z
 layout: work-item
-scope: "Illustration / Branding / Strategy"
+scope: Illustration / Branding / Strategy
 thumb: "/uploads/work6.jpg"
 slideshow:
 - image: "/uploads/Wired001_1024x1024.gif"

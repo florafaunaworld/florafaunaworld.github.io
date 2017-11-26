@@ -2,7 +2,7 @@
 title: Target Marketing
 date: 2017-11-18 03:14:00 Z
 layout: work-item
-scope: "Advertising / Strategy / Collateral / Marketing"
+scope: Advertising / Strategy / Collateral / Marketing
 thumb: "/uploads/work16_large_large.png"
 slideshow:
 - image: "/uploads/TargetDirectMail_Update001_1024x1024.gif"

@@ -2,7 +2,7 @@
 title: Harajuku Mini
 date: 2017-11-15 03:14:00 Z
 layout: work-item
-scope: "Identity / Photo Art Direction / Advertising / Marketing"
+scope: Identity / Photo Art Direction / Advertising / Marketing
 thumb: "/uploads/work5_LittleGuyThumb.png"
 slideshow:
 - image: "/uploads/HarajukuMini_GWEN_1024x1024.gif"

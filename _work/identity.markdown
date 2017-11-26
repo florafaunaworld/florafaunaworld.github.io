@@ -2,7 +2,7 @@
 title: Identity
 date: 2017-11-24 03:14:00 Z
 layout: work-item
-scope: "Identity / Iconography / Branding / Strategy"
+scope: Identity / Iconography / Branding / Strategy
 thumb: "/uploads/Snow_Icon_84e90360-f7a5-4d9b-b8c3-769b4d2088e2_large.png"
 slideshow:
 - image: "/uploads/BlackBlueBirds_e3074a5f-c0a3-4c84-a3d8-e785bf43e03b_1024x1024.png"

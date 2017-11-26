@@ -2,7 +2,7 @@
 title: Target Electronics
 date: 2017-11-13 03:14:00 Z
 layout: work-item
-scope: "Retail Environment / Signage / Branding / Strategy"
+scope: Retail Environment / Signage / Branding / Strategy
 thumb: "/uploads/work15.jpg"
 slideshow:
 - image: "/uploads/Environment_Target_003_1024x1024.gif"
