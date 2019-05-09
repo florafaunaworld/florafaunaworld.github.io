@@ -1,7 +1,7 @@
 ---
 title: Alomere Health Rebrand
 date: 2017-11-25 03:14:00 Z
-scope: Branding / Advertising / Website Design & Development / Social Media Strategy
+scope: Branding / Strategy / Advertising / Naming  / Wayfinding Signage
 thumb: "/uploads/DCH_Thumbnail02_large.png"
 slideshow:
 - image: "/uploads/DCH_Port_ads_1024x1024.png"
