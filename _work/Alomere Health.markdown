@@ -12,6 +12,6 @@ layout: work-item
 
 ### Douglas County Hospital Rebrands to Alomere Health 
 
-Executive director, Carl Vaagenes knew their health system needed to grow if it wanted to stay strong. The county name no longer reflected the community they served and limited future growth
+A county-owned health system needed help navigating a name change to better position themselves for growth. The county name no longer reflected the community they served and limited future growth
 
 > For the month of February, we displayed a tree with “heart sticky-note leaves” on site at the clinic. Staff and patients we encouraged to write and post something nice about why they love living in the heartland. We posted the responses to the DCH Facebook page, generating increased social media engagement.
