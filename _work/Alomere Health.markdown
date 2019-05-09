@@ -14,6 +14,6 @@ layout: work-item
 
 **The Setting - **A county-owned health system needed help navigating a name change to better position themselves for growth. The county name no longer reflected the community they serve and limits future growth.
 
-> **The Strategy** - We helped Alomere Health’s leadership engage the stakeholders and the public to see the value in a change that would undoubtedly be emotional for many. Through a process of interviews, research, steering committee meetings, naming, branding, and design, Florafauna helped launch an exciting new chapter for a beloved community hero.
+> **The Strategy** - We helped engage the stakeholders and the public to see the value in a change that would undoubtedly be emotional for many. Through a process of interviews, research, steering committee meetings, naming, branding, and design, Florafauna helped launch an exciting new chapter for a beloved community hero.
 >
 > **The Results** - The rebrand launched with great success due to a strategy that first united employees, and then inspired the community with the leadership’s vision months before the unveiling of the new name.
