@@ -5,8 +5,8 @@ scope: Branding / Strategy / Advertising / Naming  / Wayfinding Signage
 thumb: "/uploads/DCH_Thumbnail02_large.png"
 slideshow:
 - image: "/uploads/FF_Alomere_Case003.jpg"
-- image: "/uploads/DCH_Port_FB_1024x1024.png"
-- image: "/uploads/DCH_Port_billboard_1024x1024.png"
+- image: "/uploads/FF_Alomere_Case002.jpg"
+- image: "/uploads/FF_Alomere_Case004.jpg"
 - image: 
 - image: 
 layout: work-item
