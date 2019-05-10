@@ -4,15 +4,15 @@ date: 2017-11-25 03:14:00 Z
 scope: Branding / Strategy / Advertising / Naming  / Wayfinding Signage
 thumb: "/uploads/DCH_Thumbnail02_large.png"
 slideshow:
-- image: "/uploads/FF_Alomere_Case003.jpg"
-- image: "/uploads/FF_Alomere_Case002.jpg"
-- image: "/uploads/FF_Alomere_Case004.jpg"
+- image: "/uploads/DCH_Port_ads_1024x1024.png"
+- image: "/uploads/DCH_Port_FB_1024x1024.png"
+- image: "/uploads/DCH_Port_billboard_1024x1024.png"
 layout: work-item
 ---
 
 ### Douglas County Hospital Rebrands to Alomere Health
 
-This rural health system needed help navigating a name change to better position themselves for growth. The county name no longer reflected the culture of the community and limited their potential  for expansion in opening new hospitals and clinics.
+This rural health system needed help navigating a name change to better position themselves for growth. The county name no longer reflected the culture of the community and limited their potential  for expansion in opening new hospitals and clinics outside of Douglas County.
 
 > **The Strategy** - We helped engage the stakeholders and the public to see the value in a change that would undoubtedly be emotional for many. Through a process of interviews, research, steering committee meetings, naming, branding, and design, Florafauna helped launch an exciting new chapter for a beloved community hero.
 >
