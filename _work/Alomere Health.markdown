@@ -7,8 +7,6 @@ slideshow:
 - image: "/uploads/FF_Alomere_Case003.jpg"
 - image: "/uploads/FF_Alomere_Case002.jpg"
 - image: "/uploads/FF_Alomere_Case004.jpg"
-- image: 
-- image: 
 layout: work-item
 ---
 
