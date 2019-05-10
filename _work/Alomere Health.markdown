@@ -4,9 +4,10 @@ date: 2017-11-25 03:14:00 Z
 scope: Branding / Strategy / Advertising / Naming  / Wayfinding Signage
 thumb: "/uploads/DCH_Thumbnail02_large.png"
 slideshow:
-- image: "/uploads/DCH_Port_ads_1024x1024.png"
-- image: "/uploads/DCH_Port_FB_1024x1024.png"
-- image: "/uploads/DCH_Port_billboard_1024x1024.png"
+- image: "/uploads/FF_Alomere_Case001.jpg"
+- image: "/uploads/FF_Alomere_Case003-54102e.jpg"
+- image: "/uploads/FF_Alomere_Case002-92f818.jpg"
+- image: "/uploads/FF_Alomere_Case004-c8691e.jpg"
 layout: work-item
 ---
 
