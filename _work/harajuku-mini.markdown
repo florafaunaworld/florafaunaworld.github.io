@@ -1,6 +1,7 @@
 ---
 title: Harajuku Mini
 date: 2017-11-15 03:14:00 Z
+position: 5
 layout: work-item
 scope: Identity / Photo Art Direction / Advertising / Marketing
 thumb: "/uploads/work5_LittleGuyThumb.png"

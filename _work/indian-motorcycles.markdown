@@ -1,6 +1,7 @@
 ---
 title: Indian Motorcycles
 date: 2017-11-17 03:14:00 Z
+position: 6
 layout: work-item
 scope: Environment / Signage / Brand Heritage
 thumb: "/uploads/Indian-active_02_large.png"

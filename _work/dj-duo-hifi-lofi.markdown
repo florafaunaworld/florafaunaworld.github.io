@@ -1,6 +1,7 @@
 ---
 title: DJ Duo HI-FI/LO-FI
 date: 2017-11-20 03:14:00 Z
+position: 10
 layout: work-item
 scope: Branding / Illustration  / Strategy
 thumb: "/uploads/HiFi_Work_Card_large.png"

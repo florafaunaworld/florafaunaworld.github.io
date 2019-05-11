@@ -1,6 +1,7 @@
 ---
 title: Wired Magazine
 date: 2017-11-14 03:14:00 Z
+position: 2
 layout: work-item
 scope: Illustration / Branding / Strategy
 thumb: "/uploads/work6.jpg"

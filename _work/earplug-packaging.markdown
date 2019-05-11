@@ -1,6 +1,7 @@
 ---
 title: Earplug Packaging
 date: 2017-11-16 03:14:00 Z
+position: 4
 layout: work-item
 scope: Identity / Product Design / Package Design / Collateral / Marketing
 thumb: "/uploads/work12_large.png"

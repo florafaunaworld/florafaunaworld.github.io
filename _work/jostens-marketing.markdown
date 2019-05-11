@@ -1,6 +1,7 @@
 ---
 title: Josten's Marketing
 date: 2017-11-22 03:14:00 Z
+position: 11
 layout: work-item
 quote: "– Cobey Rouse, Sr. Brand Experience Manager, Jostens"
 thumb: "/uploads/work10_large_large.png"
