@@ -2,9 +2,8 @@
 title: Identity
 date: 2017-11-24 03:14:00 Z
 position: 13
-layout: work-item
 scope: Identity / Iconography / Branding / Strategy
-thumb: "/uploads/Snow_Icon_84e90360-f7a5-4d9b-b8c3-769b4d2088e2_large.png"
+thumb: "/uploads/Identity_Icon_large.jpg"
 slideshow:
 - image: "/uploads/BlackBlueBirds_e3074a5f-c0a3-4c84-a3d8-e785bf43e03b_1024x1024.png"
 - image: "/uploads/BimBam_Logo_09967e60-6037-49eb-9db1-e3bf730ab30c_1024x1024.png"
@@ -48,6 +47,7 @@ slideshow:
 - image: "/uploads/Macleod_and_co_copy_1024x1024.png"
 - image: "/uploads/PDD_Logo_1024x1024.png"
 - image: "/uploads/Identity_GillBros_1024x1024.png"
+layout: work-item
 ---
 
 ### IDENTITY / LOGOS + ICONS + MARKS
