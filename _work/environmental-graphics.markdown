@@ -1,8 +1,7 @@
 ---
-title: Environmental Graphics
+title: Ostra Cybersecurity Branding
 date: 2017-11-23 03:14:00 Z
 position: 12
-layout: work-item
 scope: Branding / Retail Environmental Graphics / Signage
 thumb: "/uploads/Pharm_Port_THUMB_large.png"
 slideshow:
@@ -12,6 +11,7 @@ slideshow:
 - image: "/uploads/Pharm_Port_001_1024x1024.png"
 - image: "/uploads/Pharm_Port_002_1024x1024.png"
 - image: "/uploads/Pharm_Port_003_1024x1024.png"
+layout: work-item
 ---
 
 ### PHARMACY ENVIRONMENTAL GRAPHICS
