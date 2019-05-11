@@ -4,11 +4,11 @@ date: 2017-11-25 03:14:00 Z
 scope: Branding / Strategy / Advertising / Naming  / Wayfinding Signage
 thumb: "/uploads/Alomere_Thumbnail02_large.jpg"
 slideshow:
-- image: "/uploads/FF_Alomere_Case001.jpg"
-- image: "/uploads/FF_Alomere_Case003-54102e.jpg"
 - image: "/uploads/FF_Alomere_Case002-92f818.jpg"
-- image: "/uploads/FF_Alomere_Case004-b6d611.jpg"
+- image: "/uploads/FF_Alomere_Case003-54102e.jpg"
 - image: "/uploads/FF_Alomere_Case005.jpg"
+- image: "/uploads/FF_Alomere_Case001.jpg"
+- image: "/uploads/FF_Alomere_Case004-b6d611.jpg"
 layout: work-item
 ---
 
