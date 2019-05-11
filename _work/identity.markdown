@@ -3,7 +3,7 @@ title: Identity
 date: 2017-11-24 03:14:00 Z
 position: 13
 scope: Identity / Iconography / Branding / Strategy
-thumb: "/uploads/Identity_Icon_large.jpg"
+thumb: "/uploads/Identity_Icon_large.png"
 slideshow:
 - image: "/uploads/BlackBlueBirds_e3074a5f-c0a3-4c84-a3d8-e785bf43e03b_1024x1024.png"
 - image: "/uploads/BimBam_Logo_09967e60-6037-49eb-9db1-e3bf730ab30c_1024x1024.png"
