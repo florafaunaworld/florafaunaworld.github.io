@@ -9,7 +9,6 @@ slideshow:
 - image: "/uploads/FF_Alomere_Case005.jpg"
 - image: "/uploads/FF_Alomere_Case001.jpg"
 - image: "/uploads/FF_Alomere_Case004-b6d611.jpg"
-- image: "/uploads/Alomere_White.mp4"
 layout: work-item
 ---
 
