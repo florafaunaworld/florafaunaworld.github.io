@@ -2,19 +2,19 @@
 title: Heimie's Made branding
 date: 2017-11-26 03:14:00 Z
 position: 0
-layout: work-item
 scope: Identity / Branding / Catalog Design / Website Design & Development / Social
   Media Strategy
 thumb: "/uploads/HM_thumb.png"
 slideshow:
-- image: "/uploads/HM_LogoDevelopment.png"
-- image: "/uploads/HM_Logo_WebPortfolio.png"
-- image: "/uploads/HM_Ipad_Site.png"
 - image: "/uploads/HM_Hangtags005.png"
+- image: "/uploads/HM_Logo_WebPortfolio.png"
+- image: "/uploads/HM_LogoDevelopment.png"
+- image: "/uploads/HM_Ipad_Site.png"
 - image: "/uploads/HM_Catalog001.png"
 - image: "/uploads/HM_Catalog002.png"
 - image: "/uploads/HM_Catalog003.png"
 - image: "/uploads/HM_Bag.png"
+layout: work-item
 ---
 
 ### HEIMIE'S MADE BRANDING
