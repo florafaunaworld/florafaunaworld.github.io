@@ -1,6 +1,7 @@
 ---
 title: Target Electronics
 date: 2017-11-13 03:14:00 Z
+position: 2
 layout: work-item
 scope: Retail Environment / Signage / Branding / Strategy
 thumb: "/uploads/work15.jpg"

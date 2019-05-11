@@ -1,6 +1,7 @@
 ---
 title: Insound Magazine
 date: 2017-11-13 03:14:00 Z
+position: 1
 layout: work-item
 scope: 'Identity / Advertising / Publication / Collateral / Marketing   '
 thumb: "/uploads/work11_large.png"

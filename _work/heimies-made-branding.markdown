@@ -1,6 +1,7 @@
 ---
 title: Heimie's Made branding
 date: 2017-11-26 03:14:00 Z
+position: 0
 layout: work-item
 scope: Identity / Branding / Catalog Design / Website Design & Development / Social
   Media Strategy
