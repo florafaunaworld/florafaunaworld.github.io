@@ -14,6 +14,6 @@ slideshow:
 layout: work-item
 ---
 
-### HELPING OSTRA, A CYBERSECURITY STARTUP TELL THEIR STORY
+### HELPING A STARTUP TELL THEIR STORY TO LAND INVESTORS
 
 Bloomington drug is a pharmaceutical drug compounding service. The art of drug compounding was built around providing customized medication formulas tailored to individual patient needs. Exact dosages and reduced risk of side effects are just some of the benefits of drug compounding. Environmental graphics were incorporated throughout their facility to speak to an old process made new again in a market with a thirst for customized services and products.
