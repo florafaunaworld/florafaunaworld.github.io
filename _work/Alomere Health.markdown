@@ -2,7 +2,7 @@
 title: Alomere Health Rebrand
 date: 2017-11-25 03:14:00 Z
 scope: Branding / Strategy / Advertising / Naming  / Wayfinding Signage
-thumb: "/uploads/DCH_Thumbnail02_large.png"
+thumb: "/uploads/Alomere_Thumbnail02_large.jpg"
 slideshow:
 - image: "/uploads/FF_Alomere_Case001.jpg"
 - image: "/uploads/FF_Alomere_Case003-54102e.jpg"
