@@ -16,6 +16,6 @@ layout: work-item
 
 ### HELPING A STARTUP ATTRACT INVESTORS
 
-Ostra is a start up that offers concierge cyber security protection. They build personalized cyber security service plans for small to medium sized businesses. We helped Ostra build a brand personality that is approachable and engaging in a space that is often times seen as technical and confusing to customers and investors.
+Ostra is a start up that offers concierge cyber security protection. They build personalized cyber security service plans for small to medium sized businesses. We helped Ostra build a brand personality that is approachable and relatable in a space that is often times seen as technical and confusing to customers and investors.
 
-> This is a brand of tradition and heritage, determined to make its voice heard in a marketplace that's saturated with second-rate knock offs, me too's, and poorly produced goods. Heimie's Made is a brand rooted in authenticity and purpose. A brand that truly stands for absolute quality and functional design.
+> Florafauna started rom the ground up by creating a custom logo type and shield protection icon, fonts, colors, amusing illustrations, and tone of voice. Putting it all together with a new website and investor pitch deck that illustrates how simple sophisticated digital cyber security protection can be.
