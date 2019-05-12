@@ -16,7 +16,7 @@ layout: work-item
 
 ### HELPING A STARTUP ATTRACT INVESTORS
 
-Ostra is a start up that offers concierge cyber security protection. They build custom and personalized security service plans for small to medium sized businesses. We helped Ostra build a brand personality that is approachable and engaging for customers and investors.
+Ostra is a start up that offers concierge cyber security protection. They build personalized cyber security service plans for small to medium sized businesses. We helped Ostra build a brand personality that is approachable and engaging in a space that is often times seen as confusing and alarming to customers and investors.
 
 Andler designed a beautiful collection of bags – each are works of exceptional quality, crafted and assembled by hand with great love and care.
 
