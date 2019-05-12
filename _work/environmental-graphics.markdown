@@ -2,7 +2,7 @@
 title: Ostra Cybersecurity Branding
 date: 2017-11-23 03:14:00 Z
 position: 12
-scope: Branding / Retail Environmental Graphics / Signage
+scope: Identity / Branding / Website Design & Development / Investor Pitch Deck
 thumb: "/uploads/Pharm_Port_THUMB_large.png"
 slideshow:
 - image: "/uploads/Pharm_Port_007_1024x1024.png"
