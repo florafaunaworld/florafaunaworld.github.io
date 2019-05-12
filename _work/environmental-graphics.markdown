@@ -5,12 +5,13 @@ position: 12
 scope: Identity / Branding / Website Design & Development / Investor Pitch Deck
 thumb: "/uploads/Pharm_Port_THUMB_large.png"
 slideshow:
-- image: "/uploads/Pharm_Port_007_1024x1024.png"
-- image: "/uploads/Pharm_Port_005_1024x1024.png"
-- image: "/uploads/Pharm_Port_004_1024x1024.png"
-- image: "/uploads/Pharm_Port_001_1024x1024.png"
-- image: "/uploads/Pharm_Port_002_1024x1024.png"
-- image: "/uploads/Pharm_Port_003_1024x1024.png"
+- image: "/uploads/FF_Ostra_Case001.jpg"
+- image: "/uploads/FF_Ostra_Case002.jpg"
+- image: "/uploads/FF_Ostra_Case003.jpg"
+- image: "/uploads/FF_Ostra_Case004b.jpg"
+- image: "/uploads/FF_Ostra_Case005.jpg"
+- image: "/uploads/FF_Ostra_Case006.jpg"
+- image: "/uploads/FF_Ostra_Case007.jpg"
 layout: work-item
 ---
 
