@@ -16,4 +16,8 @@ layout: work-item
 
 ### HELPING A STARTUP ATTRACT INVESTORS
 
-Bloomington drug is a pharmaceutical drug compounding service. The art of drug compounding was built around providing customized medication formulas tailored to individual patient needs. Exact dosages and reduced risk of side effects are just some of the benefits of drug compounding. Environmental graphics were incorporated throughout their facility to speak to an old process made new again in a market with a thirst for customized services and products.
+Ostra is a start up that offers concierge cyber security protection. They build custom and personalized security service plans for small to medium sized businesses. We helped Ostra build a brand personality that is approachable and engaging for customers and investors.
+
+Andler designed a beautiful collection of bags – each are works of exceptional quality, crafted and assembled by hand with great love and care.
+
+> This is a brand of tradition and heritage, determined to make its voice heard in a marketplace that's saturated with second-rate knock offs, me too's, and poorly produced goods. Heimie's Made is a brand rooted in authenticity and purpose. A brand that truly stands for absolute quality and functional design.
