@@ -2,7 +2,6 @@
 title: Insound Magazine
 date: 2017-11-13 03:14:00 Z
 position: 1
-layout: work-item
 scope: 'Identity / Advertising / Publication / Collateral / Marketing   '
 thumb: "/uploads/work11_large.png"
 slideshow:
@@ -10,6 +9,7 @@ slideshow:
 - image: "/uploads/Insound_Update001b_1024x1024.gif"
 - image: "/uploads/Insound3_1024x1024.gif"
 - image: "/uploads/Insound_Update005_1024x1024.gif"
+layout: work-item
 ---
 
 ### INSOUND MAGAZINE
