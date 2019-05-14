@@ -5,14 +5,14 @@ position: 12
 scope: Identity / Branding / Website Design & Development / Investor Deck and Story
 thumb: "/uploads/Identity_Icon_large-bbdfc9.png"
 slideshow:
+- image: "/uploads/FF_Ostra_Case008.jpg"
 - image: "/uploads/FF_Ostra_Case001.jpg"
-- image: "/uploads/FF_Ostra_Case003.jpg"
 - image: "/uploads/FF_Ostra_Case002.jpg"
 - image: "/uploads/FF_Ostra_Case005.jpg"
 - image: "/uploads/FF_Ostra_Case004b.jpg"
 - image: "/uploads/FF_Ostra_Case006.jpg"
+- image: "/uploads/FF_Ostra_Case003.jpg"
 - image: "/uploads/FF_Ostra_Case007.jpg"
-- image: "/uploads/FF_Ostra_Case008.jpg"
 layout: work-item
 ---
 
