@@ -6,7 +6,7 @@ scope: Identity / Branding / Website Design & Development / Investor Deck and St
 thumb: "/uploads/Identity_Icon_large-bbdfc9.png"
 slideshow:
 - image: "/uploads/FF_Ostra_Case008.jpg"
-- image: "/uploads/FF_Ostra_Case001.jpg"
+- image: "/uploads/FF_Ostra_Case009.jpg"
 - image: "/uploads/FF_Ostra_Case002.jpg"
 - image: "/uploads/FF_Ostra_Case005.jpg"
 - image: "/uploads/FF_Ostra_Case004b.jpg"
