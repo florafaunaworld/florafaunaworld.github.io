@@ -2,7 +2,6 @@
 title: DJ Duo HI-FI/LO-FI
 date: 2017-11-20 03:14:00 Z
 position: 10
-layout: work-item
 scope: Branding / Illustration  / Strategy
 thumb: "/uploads/HiFi_Work_Card_large.png"
 slideshow:
@@ -14,6 +13,7 @@ slideshow:
 - image: "/uploads/HiFi_LoFi_RecordWheels_1024x1024.gif"
 - image: "/uploads/HiFi_LoFi_004_1024x1024.gif"
 - image: "/uploads/HiFi_LoFi_Iphone_App_1024x1024.gif"
+layout: work-item
 ---
 
 ### DJ DUO HI-FI/LO-FI
