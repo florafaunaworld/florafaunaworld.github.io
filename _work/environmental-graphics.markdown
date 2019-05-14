@@ -12,6 +12,7 @@ slideshow:
 - image: "/uploads/FF_Ostra_Case004b.jpg"
 - image: "/uploads/FF_Ostra_Case006.jpg"
 - image: "/uploads/FF_Ostra_Case007.jpg"
+- image: "/uploads/FF_Ostra_Case008.jpg"
 layout: work-item
 ---
 
