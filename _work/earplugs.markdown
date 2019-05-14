@@ -2,13 +2,13 @@
 title: Earplug Packaging
 date: 2017-11-16 03:14:00 Z
 position: 4
-layout: work-item
 scope: Identity / Product Design / Package Design / Collateral / Marketing
 thumb: "/uploads/work12_large.png"
 slideshow:
 - image: "/uploads/Earplugs001b_1024x1024.gif"
 - image: "/uploads/Earplugs003b_1024x1024.gif"
 - image: "/uploads/Earplugs002b_1024x1024.gif"
+layout: work-item
 ---
 
 ### SELF PROMOTING EARPLUG PACKAGING
