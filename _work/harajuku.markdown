@@ -2,7 +2,6 @@
 title: Harajuku Mini
 date: 2017-11-15 03:14:00 Z
 position: 5
-layout: work-item
 scope: Identity / Photo Art Direction / Advertising / Marketing
 thumb: "/uploads/work5_LittleGuyThumb.png"
 slideshow:
@@ -14,6 +13,7 @@ slideshow:
 - image: "/uploads/HarajukuMini05a_1024x1024.gif"
 - image: "/uploads/HarajukuMini07a_1024x1024.gif"
 - image: "/uploads/HarajukuMini01a_1024x1024.gif"
+layout: work-item
 ---
 
 ### HARAJUKU MINI FOR TARGET 2012 LOOK BOOK
