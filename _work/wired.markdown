@@ -2,7 +2,6 @@
 title: Wired Magazine
 date: 2017-11-14 03:14:00 Z
 position: 2
-layout: work-item
 scope: Illustration / Branding / Strategy
 thumb: "/uploads/work6.jpg"
 slideshow:
@@ -10,6 +9,7 @@ slideshow:
 - image: "/uploads/Wired002_1024x1024.gif"
 - image: "/uploads/Wired003_1024x1024.gif"
 - image: "/uploads/Wired004_1024x1024.gif"
+layout: work-item
 ---
 
 ### WIRED MAGAZINE ILLUSTRATIONS / EDITORIAL LAYOUT
