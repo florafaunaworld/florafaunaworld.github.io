@@ -2,7 +2,6 @@
 title: Summit Brewing Company
 date: 2017-11-21 03:14:00 Z
 position: 8
-layout: work-item
 scope: Identity / Product Design / Package Design / Collateral / Marketing
 thumb: "/uploads/work8_large_1_large.png"
 slideshow:
@@ -10,6 +9,7 @@ slideshow:
 - image: "/uploads/SummitPosters001b_1024x1024.gif"
 - image: "/uploads/Summit001_1024x1024.gif"
 - image: "/uploads/SummitTees5_1024x1024.gif"
+layout: work-item
 ---
 
 ### SUMMIT BREWING 25th ANNIVERSARY
