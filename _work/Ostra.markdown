@@ -2,7 +2,8 @@
 title: Ostra Cybersecurity Branding
 date: 2017-11-23 03:14:00 Z
 position: 12
-scope: Identity / Branding / Website Design & Development / Investor Deck and Story
+scope: Identity / Branding / Website Design & Development / Investor Deck and Brand
+  Story
 thumb: "/uploads/Identity_Icon_large-bbdfc9.png"
 slideshow:
 - image: "/uploads/FF_Ostra_Case001.jpg"
