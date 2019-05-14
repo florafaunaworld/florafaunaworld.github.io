@@ -2,7 +2,6 @@
 title: Josten's Marketing
 date: 2017-11-22 03:14:00 Z
 position: 11
-layout: work-item
 quote: "– Cobey Rouse, Sr. Brand Experience Manager, Jostens"
 thumb: "/uploads/work10_large_large.png"
 slideshow:
@@ -10,6 +9,7 @@ slideshow:
 - image: "/uploads/Jostens_Icons003_1024x1024.png"
 - image: "/uploads/Jostens_Medallion003_1024x1024.gif"
 - image: "/uploads/Jostens_Records_1024x1024.gif"
+layout: work-item
 ---
 
 ### JOSTEN'S 115 BRAND REFRESH
