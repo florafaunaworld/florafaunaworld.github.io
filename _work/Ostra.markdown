@@ -1,5 +1,5 @@
 ---
-title: Ostra Cybersecurity Branding
+title: Ostra Cyber Security Branding
 date: 2017-11-23 03:14:00 Z
 position: 12
 scope: Identity / Branding / Website Design & Development / Investor Deck and Brand
