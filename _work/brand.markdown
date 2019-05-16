@@ -34,6 +34,7 @@ slideshow:
 - image: "/uploads/Fabric_Icons04_WHITE_bg_1024x1024.png"
 - image: "/uploads/Fabric_Icons03_WHITE_bg_1024x1024.png"
 - image: "/uploads/Fabric_Icons02_WHITE_bg_1024x1024.png"
+- image: "/uploads/FabricIcons.jpg"
 - image: "/uploads/PDD_Logo_b4fa6e61-f60a-4fd5-b10f-b4061d7a10d8_1024x1024.png"
 - image: "/uploads/Target_Icons_1024x1024.png"
 - image: "/uploads/Identity_HiFi02_1024x1024.gif"
