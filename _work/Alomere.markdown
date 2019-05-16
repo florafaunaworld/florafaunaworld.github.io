@@ -17,7 +17,7 @@ layout: work-item
 
 ### Douglas County Hospital Rebrands to Alomere Health
 
-This rural health system needed help navigating a name change to better position themselves for growth. Their county name no longer served them and limited their potential  for expansion in opening new hospitals and clinics outside of Douglas County.
+This health system needed help navigating a name change to better position themselves for growth. Their county name no longer served them and limited their potential  for expansion in opening new hospitals and clinics outside of Douglas County.
 
 > **The Strategy** - We helped engage the stakeholders and the public to see the value in a change that would undoubtedly be emotional for many. Through a process of interviews, research, steering committee meetings, naming, branding, and design, Florafauna helped launch an exciting new chapter for a beloved community hero.
 >
