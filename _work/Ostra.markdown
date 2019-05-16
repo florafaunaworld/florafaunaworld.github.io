@@ -21,4 +21,4 @@ layout: work-item
 
 Ostra is a start up that offers concierge cyber security protection. Ostra builds personalized cyber security service plans for small to medium sized businesses, using the same security technology used by massive enterprises and governments around the world. We helped Ostra build an approachable  brand personality in a space that is often times seen as technical and confusing to customers and investors.
 
-> Florafauna started from the ground up by creating a custom logo type and shield protection icon, fonts, colors, custom illustrations that entertain and inform. Bringing it all together with a new website and investor pitch deck that frames up their brand story for a new digital cyber security product.
+> Florafauna started from the ground up by creating a custom logo type and shield protection icon, fonts, colors, custom illustrations that aim to entertain and inform. Bringing it all together with a new website and investor pitch deck that frames up their brand story for a new digital cyber security product.
