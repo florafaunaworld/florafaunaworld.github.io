@@ -21,6 +21,7 @@ slideshow:
 - image: "/uploads/Eagle_Icon_f138ba2f-f5cc-4427-8272-9755e011b7f5_1024x1024.png"
 - image: "/uploads/R_Paper_246f8fda-6589-47d1-9289-ecf6464ab537_1024x1024.png"
 - image: "/uploads/UofPolarisLogo_1024x1024.png"
+- image: "/uploads/MSDPolarisLogo.png"
 - image: "/uploads/P_Guy_6f74206a-e0b5-4ae8-be12-04d37645c5b6_1024x1024.png"
 - image: "/uploads/Identity_PrismResearch02_1024x1024.png"
 - image: "/uploads/Identity_PurePop01_1024x1024.png"
