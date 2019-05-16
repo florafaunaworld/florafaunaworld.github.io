@@ -1,5 +1,5 @@
 ---
-title: Identity
+title: Brand Identity
 date: 2017-11-24 03:14:00 Z
 position: 13
 scope: Identity / Iconography / Branding / Strategy
@@ -48,7 +48,7 @@ slideshow:
 layout: work-item
 ---
 
-### IDENTITY / LOGOS + ICONS + MARKS
+### BRAND IDENTITY / LOGOS \+ ICONS \+ MARKS
 
 A selection of recent identity work and branding projects for a variety of groups ranging from start-up boutique companies to corporate enterprises to non-profit organizations. A logo is the singular visual statement that defines the look, feel and tone of a company's brand identity.
 
