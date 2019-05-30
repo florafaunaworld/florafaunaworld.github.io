@@ -10,7 +10,7 @@
 
 <body>
   {% include header.html %}
-  <section id="body" {% if page.url == '/' %}class="home"{% elsif page.layout == 'work-item' %}class="work"{% elsif page.layout == 'post' %}class="blog"{% else %}class="{{ page.url | replace '', '/' }}"{% endif %}>
+  <section id="body" {% if page.url == '/' %}class="home"{% elsif page.layout == 'work-item' %}class="work"{% elsif page.layout == 'post' %}class="blog"{% else %}class="{{ page.url | replace: '', '/' }}"{% endif %}>
     {{ content }}
   </section>
   {% include footer.html %}
