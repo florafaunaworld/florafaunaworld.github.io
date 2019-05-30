@@ -62,20 +62,17 @@ navigation:
     full of visual clutter and constant change.
 carousel:
 - show: true
-  image: "/assets/img/carousel-item-1.jpg"
+  image: "/uploads/carousel-item-001.jpg"
   caption: 
 - show: true
-  image: "/assets/img/carousel-item-2.jpg"
+  image: "/uploads/carousel-item-002.jpg"
   caption: 
 - show: true
-  image: "/assets/img/carousel-item-3.jpg"
+  image: "/uploads/carousel-item-003.jpg"
   caption: 
 - show: true
-  image: "/assets/img/carousel-item-4.jpg"
+  image: "/uploads/carousel-item-004.jpg"
   caption: 
 - show: true
-  image: "/assets/img/carousel-item-5.jpg"
-  caption: 
-- show: true
-  image: "/uploads/carousel-item-01.jpg"
+  image: "/uploads/carousel-item-005.jpg"
   caption: 
