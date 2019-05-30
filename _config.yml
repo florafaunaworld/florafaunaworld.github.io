@@ -60,3 +60,22 @@ navigation:
   text: Let's start the conversation about how together we can EVOLVE your brand's
     story and create authentic experiences that make a powerful statement in world
     full of visual clutter and constant change.
+carousel:
+- show: true
+  image: "/assets/img/carousel-item-1.jpg"
+  caption: 
+- show: true
+  image: "/assets/img/carousel-item-2.jpg"
+  caption: 
+- show: true
+  image: "/assets/img/carousel-item-3.jpg"
+  caption: 
+- show: true
+  image: "/assets/img/carousel-item-4.jpg"
+  caption: 
+- show: true
+  image: "/assets/img/carousel-item-5.jpg"
+  caption: 
+- show: true
+  image: "/assets/img/carousel-item-6.jpg"
+  caption: 
