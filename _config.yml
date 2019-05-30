@@ -63,7 +63,7 @@ navigation:
 carousel:
 - show: true
   image: "/assets/img/carousel-item-1.jpg"
-  caption: ""
+  caption: ''
 - show: true
   image: "/assets/img/carousel-item-2.jpg"
-  caption: ""
+  caption: ''
